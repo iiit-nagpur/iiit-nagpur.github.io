@@ -8,6 +8,6 @@
 - Competitive Programming Guide
 - DotSlash community
 - Introduction to OpenCV
-- Machine Learning Guide
+- [Machine Learning Guide](https://github.com/iiit-nagpur/Machine-Learning-Guide/blob/master/README.md)
 - Open Source Github Guide
-- The Ultimate Internship Guide
+- [The Ultimate Internship Guide](https://github.com/iiit-nagpur/TheUltimateInternshipGuide/blob/master/README.md)
